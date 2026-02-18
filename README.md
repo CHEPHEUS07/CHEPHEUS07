@@ -31,7 +31,7 @@
 name: ATRIJIT SARKAR
 role: Data Analyst & Web Developer
 location: India 🇮🇳
-currently_learning: Advanced Data Analytics & Full Stack Development
+currently_learning: Advanced Data Analytics & Frontend Development
 interests:
   - 📊 Data Analytics & Visualization
   - 🌐 Web Development
