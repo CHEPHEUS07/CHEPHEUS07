@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=CHEPHEUS&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Web%20Developer%20%7C%20Python%20Enthusiast&descAlignY=55&descSize=18&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=WELCOME+TO+MY+GITHUB+VERSE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Web%20Developer%20%7C%20Python%20Enthusiast&descAlignY=55&descSize=18&descColor=8b949e" width="100%"/>
 
 <!-- Animated Greeting -->
 <a href="https://git.io/typing-svg">
