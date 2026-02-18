@@ -1,3 +1,5 @@
+# HI I AM ATRIJIT SARKAR
+
 <div align="center">
 
 <!-- 3D Animated Header -->
@@ -23,7 +25,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```yaml
-name: CHEPHEUS
+name: ATRIJIT SARKAR
 role: Data Analyst & Web Developer
 location: India 🇮🇳
 currently_learning: Advanced Data Analytics & Full Stack Development
