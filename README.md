@@ -1,9 +1,12 @@
-# HI I AM ATRIJIT SARKAR
-
 <div align="center">
 
 <!-- 3D Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=CHEPHEUS&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Web%20Developer%20%7C%20Python%20Enthusiast&descAlignY=55&descSize=18&descColor=8b949e" width="100%"/>
+
+<!-- Animated Greeting -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=HI+I+AM+ATRIJIT+SARKAR+%F0%9F%91%8B" alt="Greeting" />
+</a>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
