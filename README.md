@@ -80,23 +80,20 @@ fun_fact: "I turn raw data into actionable insights! 🚀"
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
 
-- **[IPL Data Analytics Project](https://github.com/CHEPHEUS07/IPL-Data-Analytics-Project)**
-  A comprehensive data analysis project examining IPL match statistics to derive insights on player performance and team strategies.
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
+|:---|:---|:---|
+| **[IPL Data Analytics](https://github.com/CHEPHEUS07/IPL-Data-Analytics-Project)** | Data analysis of IPL match statistics for player/team insights. | Python, Pandas, Matplotlib, Seaborn |
+| **[Zepto Sales Analysis](https://github.com/CHEPHEUS07/Zepto_SalesAnalysis_SQL)** | SQL-based analysis of sales data for purchasing trends. | SQL, MySQL |
+| **[Blinkit Sales Analysis](https://github.com/CHEPHEUS07/BLINKIT-SALES-ANALYSIS)** | Delivery efficiency and regional demand analysis. | Python, Pandas, Matplotlib, Seaborn |
+| **[E-Commerce Dashboard](https://github.com/CHEPHEUS07/ecommerce-sales-dashboard)** | Interactive dashboard for sales revenue and customer metrics. | Power BI, Excel |
+| **[FlexoLearn](https://github.com/CHEPHEUS07/flexo)** | Educational platform streamlining learning for students. | HTML, CSS, JavaScript |
+| **[Learning Platform](https://github.com/CHEPHEUS07/LEARNING-PLATFORM)** | Web-based LMS for course creation and student tracking. | HTML, CSS, JavaScript |
 
-- **[Zepto Sales Analysis SQL](https://github.com/CHEPHEUS07/Zepto_SalesAnalysis_SQL)**
-  SQL-based analysis of Zepto sales data to identify purchasing trends, customer behavior, and inventory requirements.
+<br/>
 
-- **[Blinkit Sales Analysis](https://github.com/CHEPHEUS07/BLINKIT-SALES-ANALYSIS)**
-  Analyzed Blinkit's dataset to optimize delivery efficiency and understand regional demand patterns.
-
-- **[E-Commerce Sales Dashboard](https://github.com/CHEPHEUS07/ecommerce-sales-dashboard)**
-  An interactive dashboard visualizing key e-commerce metrics like sales revenue, customer acquisition, and retention rates.
-
-- **[FlexoLearn](https://github.com/CHEPHEUS07/flexo)**
-  A modern educational platform designed to streamline the learning process for students and educators.
-
-- **[Learning Platform](https://github.com/CHEPHEUS07/LEARNING-PLATFORM)**
-  A robust web-based learning management system supporting course creation, student tracking, and assessments.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Neilblaze/URL-Dinogame/master/urldino.gif" alt="Dino Game" width="100%" />
+</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
