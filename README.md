@@ -92,7 +92,7 @@ fun_fact: "I turn raw data into actionable insights! 🚀"
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Neilblaze/URL-Dinogame/master/urldino.gif" alt="Dino Game" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-1eeccf656e44.gif" alt="Dino Game" width="100%" />
 </div>
 
 <!-- Animated Divider -->
