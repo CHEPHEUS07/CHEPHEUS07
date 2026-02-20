@@ -84,7 +84,7 @@ fun_fact: "I turn raw data into actionable insights! 🚀"
 |:---|:---|:---|
 | **[IPL Data Analytics](https://github.com/CHEPHEUS07/IPL-Data-Analytics-Project)** | Data analysis of IPL match statistics for player/team insights. | Python, Pandas, Matplotlib, Seaborn |
 | **[Zepto Sales Analysis](https://github.com/CHEPHEUS07/Zepto_SalesAnalysis_SQL)** | SQL-based analysis of sales data for purchasing trends. | SQL, MySQL |
-| **[Blinkit Sales Analysis](https://github.com/CHEPHEUS07/BLINKIT-SALES-ANALYSIS)** | Delivery efficiency and regional demand analysis. | Python, Pandas, Matplotlib, Seaborn |
+| **[Blinkit Sales Analysis](https://github.com/CHEPHEUS07/BLINKIT-SALES-ANALYSIS)** | Delivery efficiency and regional demand analysis. | Power BI, Excel, MySQL |
 | **[E-Commerce Dashboard](https://github.com/CHEPHEUS07/ecommerce-sales-dashboard)** | Interactive dashboard for sales revenue and customer metrics. | Power BI, Excel |
 | **[FlexoLearn](https://github.com/CHEPHEUS07/flexo)** | Educational platform streamlining learning for students. | HTML, CSS, JavaScript |
 
