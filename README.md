@@ -87,7 +87,6 @@ fun_fact: "I turn raw data into actionable insights! 🚀"
 | **[Blinkit Sales Analysis](https://github.com/CHEPHEUS07/BLINKIT-SALES-ANALYSIS)** | Delivery efficiency and regional demand analysis. | Python, Pandas, Matplotlib, Seaborn |
 | **[E-Commerce Dashboard](https://github.com/CHEPHEUS07/ecommerce-sales-dashboard)** | Interactive dashboard for sales revenue and customer metrics. | Power BI, Excel |
 | **[FlexoLearn](https://github.com/CHEPHEUS07/flexo)** | Educational platform streamlining learning for students. | HTML, CSS, JavaScript |
-| **[Learning Platform](https://github.com/CHEPHEUS07/LEARNING-PLATFORM)** | Web-based LMS for course creation and student tracking. | HTML, CSS, JavaScript |
 
 <br/>
 
