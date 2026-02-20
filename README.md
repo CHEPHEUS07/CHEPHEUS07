@@ -80,28 +80,23 @@ fun_fact: "I turn raw data into actionable insights! 🚀"
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
 
-<div align="center">
+- **[IPL Data Analytics Project](https://github.com/CHEPHEUS07/IPL-Data-Analytics-Project)**
+  A comprehensive data analysis project examining IPL match statistics to derive insights on player performance and team strategies.
 
-<a href="https://github.com/CHEPHEUS07/IPL-Data-Analytics-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHEPHEUS07&repo=IPL-Data-Analytics-Project&theme=radical&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" alt="IPL Data Analytics" />
-</a>
-<a href="https://github.com/CHEPHEUS07/Zepto_SalesAnalysis_SQL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHEPHEUS07&repo=Zepto_SalesAnalysis_SQL&theme=radical&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" alt="Zepto Sales Analysis" />
-</a>
-<a href="https://github.com/CHEPHEUS07/BLINKIT-SALES-ANALYSIS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHEPHEUS07&repo=BLINKIT-SALES-ANALYSIS&theme=radical&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" alt="Blinkit Sales Analysis" />
-</a>
-<a href="https://github.com/CHEPHEUS07/ecommerce-sales-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHEPHEUS07&repo=ecommerce-sales-dashboard&theme=radical&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" alt="E-Commerce Dashboard" />
-</a>
-<a href="https://github.com/CHEPHEUS07/flexo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHEPHEUS07&repo=flexo&theme=radical&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" alt="FlexoLearn" />
-</a>
-<a href="https://github.com/CHEPHEUS07/LEARNING-PLATFORM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHEPHEUS07&repo=LEARNING-PLATFORM&theme=radical&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" alt="Learning Platform" />
-</a>
+- **[Zepto Sales Analysis SQL](https://github.com/CHEPHEUS07/Zepto_SalesAnalysis_SQL)**
+  SQL-based analysis of Zepto sales data to identify purchasing trends, customer behavior, and inventory requirements.
 
-</div>
+- **[Blinkit Sales Analysis](https://github.com/CHEPHEUS07/BLINKIT-SALES-ANALYSIS)**
+  Analyzed Blinkit's dataset to optimize delivery efficiency and understand regional demand patterns.
+
+- **[E-Commerce Sales Dashboard](https://github.com/CHEPHEUS07/ecommerce-sales-dashboard)**
+  An interactive dashboard visualizing key e-commerce metrics like sales revenue, customer acquisition, and retention rates.
+
+- **[FlexoLearn](https://github.com/CHEPHEUS07/flexo)**
+  A modern educational platform designed to streamline the learning process for students and educators.
+
+- **[Learning Platform](https://github.com/CHEPHEUS07/LEARNING-PLATFORM)**
+  A robust web-based learning management system supporting course creation, student tracking, and assessments.
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
