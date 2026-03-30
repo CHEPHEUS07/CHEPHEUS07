@@ -97,6 +97,15 @@ fun_fact: "I turn raw data into actionable insights! 🚀"
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 No recent activity yet — stay tuned!
+<!--END_SECTION:activity-->
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="25"> GitHub Analytics
 
 <div align="center">
