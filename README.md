@@ -100,7 +100,7 @@ fun_fact: "I turn raw data into actionable insights! 🚀"
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 No recent activity yet — stay tuned!
+1. 🎉 Merged PR [#1](https://github.com/ankushsingh003/FlexoVerse/pull/1) in [ankushsingh003/FlexoVerse](https://github.com/ankushsingh003/FlexoVerse)
 <!--END_SECTION:activity-->
 
 <!-- Animated Divider -->
